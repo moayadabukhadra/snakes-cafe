@@ -8,3 +8,5 @@ command line utility which  mimic the functionality of a point of sale restauran
 
 - your order will be printed when you finsih (type "quit")
 and the time it will take to finish your order
+
+[pull request](https://github.com/moayadabukhadra/snakes-cafe/pull/1)
